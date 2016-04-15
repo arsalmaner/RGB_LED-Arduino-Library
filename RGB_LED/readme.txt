@@ -14,11 +14,12 @@ Arduino/lib/targets/libraries folder.
 When installed, this library should look like:
 
 Arduino/lib/targets/libraries/RGB_LED              (this library's folder)
-Arduino/lib/targets/libraries/RGB_LED/RGB_LED.cpp     (the library implementation file)
-Arduino/lib/targets/libraries/RGB_LED/RGB_LED.h       (the library description file)
+Arduino/lib/targets/libraries/RGB_LED/src/RGB_LED.cpp     (the library implementation file)
+Arduino/lib/targets/libraries/RGB_LED//src/RGB_LED.h       (the library description file)
 Arduino/lib/targets/libraries/RGB_LED/keywords.txt (the syntax coloring file)
 Arduino/lib/targets/libraries/RGB_LED/examples     (the examples in the "open" menu)
 Arduino/lib/targets/libraries/RGB_LED/readme.txt   (this file)
+Arduino/lib/targets/libraries/RGB_LED/library.properties   (this file)
 
 Building
 --------------------------------------------------------------------------------
