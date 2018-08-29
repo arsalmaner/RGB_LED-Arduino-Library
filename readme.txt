@@ -1,7 +1,6 @@
 This is an example C++ library for Arduino , based on one created by 
-Ekrem Karacan & H.Oguzhan Demir & A.Reha Salmaner & Abdulkadir Karakoç for RGB LED with 4 legs
+A.Reha Salmaner for RGB LED with 4 legs
 
-AYTEG Ltd.Sti.
 DNA Tech. & Cons. Ltd.Sti. 
 Ankara/Turkey
 
